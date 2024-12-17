@@ -1,16 +1,16 @@
 # B198-C5-End-to-End-Data-Science-Project
-Marketing Analysis
-Project Overview
+#Marketing Analysis
+#Project Overview
 This project is a comprehensive analysis of marketing data, focusing on key insights derived through data preprocessing, visualization, and statistical methods. The notebook is designed for exploratory and predictive analysis of marketing trends, making it ideal for business decision-making.
 
-Key Features:
+#Key Features:
 Data Preprocessing: Cleaning, structuring, and preparing data for analysis.
 Visualization: Generating insightful plots to understand trends and distributions.
 Statistical Analysis: Applying advanced techniques to derive actionable insights.
 Prerequisites
 Before running the notebook, ensure the following are installed:
 
-Python Libraries:
+#Python Libraries:
 pandas: For data manipulation.
 seaborn and matplotlib: For data visualization.
 numpy: For numerical computations.
@@ -18,7 +18,7 @@ re: For text preprocessing.
 You can install any missing libraries using:
 
 !pip install pandas seaborn matplotlib numpy
-Step-by-Step Instructions
+#Step-by-Step Instructions
 1. Load the Notebook
 Save the file Marketing_Analysis.ipynb locally or on Google Drive.
 Open the notebook in your Python environment or Google Colab.
@@ -34,7 +34,8 @@ Generate visualizations to understand:
 Sales and revenue trends.
 Customer demographics.
 Product performance.
-Example Code:
+
+#Example Code:
 
 sns.barplot(data=marketing_data, x="Region", y="Sales")
 plt.title("Sales by Region")
