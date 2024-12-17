@@ -42,7 +42,9 @@ plt.show()
 5. Statistical Analysis
 
 The notebook provides sections for hypothesis testing and predictive modeling.
-7. Running the Notebook
+
+6. Running the Notebook
+
 Execute cells sequentially to reproduce the analysis.
 Review outputs for errors or required modifications
 
