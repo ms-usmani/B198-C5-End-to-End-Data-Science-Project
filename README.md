@@ -34,18 +34,19 @@ Generate visualizations to understand:
 Sales and revenue trends.
 Customer demographics.
 Product performance.
-
-# Example Code:
-
+Example Code:
 sns.barplot(data=marketing_data, x="Region", y="Sales")
 plt.title("Sales by Region")
 plt.show()
+
 5. Statistical Analysis
+
 The notebook provides sections for hypothesis testing and predictive modeling.
-6. Running the Notebook
+7. Running the Notebook
 Execute cells sequentially to reproduce the analysis.
-Review outputs for errors or required modifications.
-Outputs and Insights
+Review outputs for errors or required modifications
+
+# Outputs and Insights
 Visualizations: Automatically generated charts and graphs.
 Insights: Key findings about marketing trends and strategies.
 Customizability: Code sections can be adapted for different datasets or business goals.
