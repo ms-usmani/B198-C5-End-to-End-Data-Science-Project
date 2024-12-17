@@ -1,6 +1,6 @@
 # B198-C5-End-to-End-Data-Science-Project
-#Marketing Analysis
-#Project Overview
+Marketing Analysis
+# Project Overview
 This project is a comprehensive analysis of marketing data, focusing on key insights derived through data preprocessing, visualization, and statistical methods. The notebook is designed for exploratory and predictive analysis of marketing trends, making it ideal for business decision-making.
 
 # Key Features:
